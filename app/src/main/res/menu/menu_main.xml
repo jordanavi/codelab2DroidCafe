@@ -12,6 +12,9 @@
   ~ WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
   ~ See the License for the specific language governing permissions and
   ~ limitations under the License.
+
+  alterado por JORDANA VILELA
+
   -->
 
 <menu xmlns:android="http://schemas.android.com/apk/res/android"
@@ -32,11 +35,19 @@
         android:id="@+id/action_order"
         android:orderInCategory="100"
         android:title="@string/order"
-        app:showAsAction="never" />
+        android:icon="@drawable/ic_shopping_cart"
+        app:showAsAction="always" />
     <item
         android:id="@+id/action_status"
         android:orderInCategory="100"
         android:title="@string/status"
-        app:showAsAction="never"/>
+        android:icon="@drawable/ic_status_info"
+        app:showAsAction="always"/>
+    <item
+        android:id="@+id/action_favorite"
+        android:orderInCategory="100"
+        android:title="@string/favorite"
+        android:icon="@drawable/ic_favorite_info"
+        app:showAsAction="ifRoom"/>
 
 </menu>

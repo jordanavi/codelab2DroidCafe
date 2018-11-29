@@ -22,12 +22,12 @@
     <string name="ice_cream_sandwiches">Ice cream sandwiches have chocolate
         wafers and vanilla filling.</string>
     <string name="froyo">FroYo is premium self-serve frozen yogurt.</string>
-    <string name="donut_order_message">You ordered a donut.</string>
-    <string name="ice_cream_order_message">You ordered an ice cream
+    <string name="donut_order_message">Você pediu um donut.</string>
+    <string name="ice_cream_order_message">Você pediu um ice cream
         sandwich.</string>
-    <string name="froyo_order_message">You ordered a FroYo.</string>
+    <string name="froyo_order_message">Você pediu um FroYo.</string>
     <string name="change_dessert">Change dessert</string>
-    <string name="order_label_text">Order:</string>
+    <string name="order_label_text">Pedido:</string>
     <string name="note_label_text">Anotaçoes:</string>
     <string name="name_label_text">Nome</string>
     <string name="enter_name_hint">Digite seu nome</string>
@@ -38,12 +38,13 @@
     <string name="enter_note_hint">Digite suas anotações</string>
     <string name="choose_delivery_method">Escolha a forma de entrega:</string>
     <string name="same_day_messenger_service">Entrega expressa no mesmo dia</string>
-    <string name="next_day_ground_delivery">Entrea no dia seguinte</string>
+    <string name="next_day_ground_delivery">Entrega no dia seguinte</string>
     <string name="pick_up">Retirar na loja</string>
     <string name="contact">Contato</string>
-    <string name="order">Order</string>
+    <string name="order">Pedido</string>
+    <string name="favorite">Favorito</string>
     <string name="status">Status</string>
-    <string name="action_order_message">Você selecionou Order.</string>
+    <string name="action_order_message">Seu pedido.</string>
     <string name="action_status_message">Você selecionou Status.</string>
     <string name="action_favorites_message">Você selecionou Favoritos.</string>
     <string name="action_contact_message">Você selecionou Contatos.</string>
